@@ -6,5 +6,10 @@ Rencana konten ke depan
 -desain web 
 -programming 
 -pramework 
+*codeigniter3 
+*codeigniter4
+
 -php
+*localsot
+*git bash
 -dan OOP
